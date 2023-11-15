@@ -1,0 +1,105 @@
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/android_sma"
+  android:layout_width="360dp"
+  android:layout_height="640dp"
+  android:clipToOutline="true"
+  android:background="@drawable/android_sma"
+ />
+  
+<!-- drawable/android_sma.xml -->
+<vector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aapt="http://schemas.android.com/aapt"
+  android:width="360dp"
+  android:height="640dp"
+  android:viewportWidth="360"
+  android:viewportHeight="640"
+ >
+<group>
+<clip-path
+  android:pathData="M20 0H340C351.046 0 360 8.95431 360 20V620C360 631.046 351.046 640 340 640H20C8.95431 640 0 631.046 0 620V20C0 8.95431 8.95431 0 20 0Z"
+/>
+<path
+  android:pathData="M0 0V640H360V0"
+  android:fillColor="#FF9500"
+/>
+</group>
+</vector>
+
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<View
+  android:id="@+id/vector"
+  android:layout_width="0dp"
+  android:layout_height="0dp"
+  android:layout_alignParentLeft="true"
+  android:layout_alignParentRight="true"
+  android:layout_alignParentTop="true"
+  android:layout_alignParentBottom="true"
+  android:background="@drawable/vector"
+  android:elevation="4dp"
+ />
+  
+<!-- drawable/vector.xml -->
+<vector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aapt="http://schemas.android.com/aapt"
+  android:width="151dp"
+  android:height="151dp"
+  android:viewportWidth="151"
+  android:viewportHeight="151"
+ >
+<group>
+<clip-path
+  android:pathData="M0.5 0.5H150.5V150.5H0.5V0.5Z"
+/>
+<path
+  android:pathData="M0.5 0.5V150.5H150.5V0.5"
+  android:fillColor="#000000"
+/>
+</group>
+<path
+  android:pathData="M0.5 0.5H150.5V150.5H0.5V0.5Z"
+  android:strokeWidth="1"
+  android:strokeColor="#000000"
+/>
+</vector>
+
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<View
+  android:id="@+id/vector"
+  android:layout_width="0dp"
+  android:layout_height="0dp"
+  android:layout_alignParentLeft="true"
+  android:layout_alignParentRight="true"
+  android:layout_alignParentTop="true"
+  android:layout_alignParentBottom="true"
+  android:background="@drawable/vector"
+  android:elevation="4dp"
+ />
+  
+<!-- drawable/vector.xml -->
+<vector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aapt="http://schemas.android.com/aapt"
+  android:width="151dp"
+  android:height="151dp"
+  android:viewportWidth="151"
+  android:viewportHeight="151"
+ >
+<group>
+<clip-path
+  android:pathData="M0.5 0.5H150.5V150.5H0.5V0.5Z"
+/>
+<path
+  android:pathData="M0.5 0.5V150.5H150.5V0.5"
+  android:fillColor="#000000"
+/>
+</group>
+<path
+  android:pathData="M0.5 0.5H150.5V150.5H0.5V0.5Z"
+  android:strokeWidth="1"
+  android:strokeColor="#000000"
+/>
+</vector>

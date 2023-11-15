@@ -1,0 +1,183 @@
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/android_sma"
+  android:layout_width="360dp"
+  android:layout_height="640dp"
+  android:clipToOutline="true"
+  android:background="@drawable/android_sma"
+ />
+  
+<!-- drawable/android_sma.xml -->
+<vector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aapt="http://schemas.android.com/aapt"
+  android:width="360dp"
+  android:height="640dp"
+  android:viewportWidth="360"
+  android:viewportHeight="640"
+ >
+<group>
+<clip-path
+  android:pathData="M20 0H340C351.046 0 360 8.95431 360 20V620C360 631.046 351.046 640 340 640H20C8.95431 640 0 631.046 0 620V20C0 8.95431 8.95431 0 20 0Z"
+/>
+<path
+  android:pathData="M0 0V640H360V0"
+  android:fillColor="#FF9500"
+/>
+</group>
+</vector>
+
+<!--hostel name button-->
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/curser_defa"
+  android:layout_width="314dp"
+  android:layout_height="50dp"
+  android:background="@drawable/curser_defa"
+  android:elevation="4dp"
+ />
+  
+<!-- drawable/curser_defa.xml -->
+<vector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aapt="http://schemas.android.com/aapt"
+  android:width="314dp"
+  android:height="50dp"
+  android:viewportWidth="314"
+  android:viewportHeight="50"
+ >
+<group>
+<clip-path
+  android:pathData="M25 0H289C302.807 0 314 11.1929 314 25C314 38.8071 302.807 50 289 50H25C11.1929 50 0 38.8071 0 25C0 11.1929 11.1929 0 25 0Z"
+/>
+<path
+  android:pathData="M0 0V50H314V0"
+  android:fillColor="#000000"
+/>
+</group>
+</vector>
+
+<!--room number button-->
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/curser_vari"
+  android:layout_width="314dp"
+  android:layout_height="50dp"
+  android:background="@drawable/curser_vari"
+  android:elevation="4dp"
+ />
+  
+<!-- drawable/curser_vari.xml -->
+<vector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aapt="http://schemas.android.com/aapt"
+  android:width="314dp"
+  android:height="50dp"
+  android:viewportWidth="314"
+  android:viewportHeight="50"
+ >
+<group>
+<clip-path
+  android:pathData="M25 0H289C302.807 0 314 11.1929 314 25C314 38.8071 302.807 50 289 50H25C11.1929 50 0 38.8071 0 25C0 11.1929 11.1929 0 25 0Z"
+/>
+<path
+  android:pathData="M0 0V50H314V0"
+  android:fillColor="#000000"
+/>
+</group>
+</vector>
+<!--name button-->
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/curser_vari"
+  android:layout_width="314dp"
+  android:layout_height="50dp"
+  android:background="@drawable/curser_vari"
+  android:elevation="4dp"
+ />
+  
+<!-- drawable/curser_vari.xml -->
+<vector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aapt="http://schemas.android.com/aapt"
+  android:width="314dp"
+  android:height="50dp"
+  android:viewportWidth="314"
+  android:viewportHeight="50"
+ >
+<group>
+<clip-path
+  android:pathData="M25 0H289C302.807 0 314 11.1929 314 25C314 38.8071 302.807 50 289 50H25C11.1929 50 0 38.8071 0 25C0 11.1929 11.1929 0 25 0Z"
+/>
+<path
+  android:pathData="M0 0V50H314V0"
+  android:fillColor="#000000"
+/>
+</group>
+</vector>
+<!--reg number button-->
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/curser_curs"
+  android:layout_width="314dp"
+  android:layout_height="50dp"
+  android:background="@drawable/curser_curs"
+  android:elevation="4dp"
+ />
+  
+<!-- drawable/curser_curs.xml -->
+<vector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aapt="http://schemas.android.com/aapt"
+  android:width="314dp"
+  android:height="50dp"
+  android:viewportWidth="314"
+  android:viewportHeight="50"
+ >
+<group>
+<clip-path
+  android:pathData="M25 0H289C302.807 0 314 11.1929 314 25C314 38.8071 302.807 50 289 50H25C11.1929 50 0 38.8071 0 25C0 11.1929 11.1929 0 25 0Z"
+/>
+<path
+  android:pathData="M0 0V50H314V0"
+  android:fillColor="#000000"
+/>
+</group>
+</vector>
+<!--phone number button-->
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/curser_curs"
+  android:layout_width="314dp"
+  android:layout_height="50dp"
+  android:background="@drawable/curser_curs"
+  android:elevation="4dp"
+ />
+  
+<!-- drawable/curser_curs.xml -->
+<vector
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:aapt="http://schemas.android.com/aapt"
+  android:width="314dp"
+  android:height="50dp"
+  android:viewportWidth="314"
+  android:viewportHeight="50"
+ >
+<group>
+<clip-path
+  android:pathData="M25 0H289C302.807 0 314 11.1929 314 25C314 38.8071 302.807 50 289 50H25C11.1929 50 0 38.8071 0 25C0 11.1929 11.1929 0 25 0Z"
+/>
+<path
+  android:pathData="M0 0V50H314V0"
+  android:fillColor="#000000"
+/>
+</group>
+</vector>
+
+
